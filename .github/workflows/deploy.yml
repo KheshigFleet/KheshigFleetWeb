@@ -16,9 +16,9 @@ env:
   # Hexo 编译后使用此 git 邮箱部署到 github 仓库
   GIT_EMAIL: gwodin@163.com
   # Hexo 编译后要部署的 github 仓库
-  GIT_DEPLOY_REPO: KheshigFleet/KheshigFleet.github.io.git
+  GIT_DEPLOY_REPO: KheshigFleet/KheshigFleet.github.io
   # Hexo 编译后要部署到的分支
-  GIT_DEPLOY_BRANCH: master
+  GIT_DEPLOY_BRANCH: main
 
 jobs:
   build:
@@ -28,7 +28,7 @@ jobs:
     strategy:
       matrix:
         os: [ubuntu-18.04]
-        node_version: [12.x]
+        node_version: [16.x]
 
     steps:
       - name: Checkout
@@ -67,8 +67,6 @@ jobs:
           npm install
           npm uninstall hexo-generator-index --save
           npm install hexo-baidu-url-submit hexo-generator-index2 hexo-symbols-count-time hexo-blog-encrypt hexo-deployer-git --save
-          # 复制中文语言包，解决菜单英文的问题
-          cp zh-CN.yml node_modules/hexo-theme-next/languages/
 
       - name: Deploy hexo
         run: |
