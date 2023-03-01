@@ -670,7 +670,7 @@ aside:
       enable: true
       icon: fab fa-github
       text: 贡献文章
-      link: https://github.com/KheshigFleet/KheshigFleet
+      link: https://github.com/KheshigFleet/KheshigFleetWeb
   card_announcement:
     enable: true
     content: 军团广告招租
