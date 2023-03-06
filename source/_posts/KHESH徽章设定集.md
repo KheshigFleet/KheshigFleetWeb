@@ -2,7 +2,7 @@
 title: KHESH徽章设定集
 description:  KHESH徽章设定集
 tags: [军团]
-cover: https://file.crazywong.com/gh/jerryc127/CDN/img/butterfly-donate-cover.png
+cover: https://images.evetech.net/alliances/99003581/logo?size=256
 ---
 
 ### 					KHESH徽章设定集

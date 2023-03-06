@@ -2,7 +2,7 @@
 title: 一只汤圆的EVE
 description: 我最早接触EVE是高中时期，由于我高中寄宿学校读书，管理十分严格，我每四周回家一次，那段时间每次回家都十分珍惜上网的时间，某次不经意间，我刷到了49会战的视频，被深深震撼到一款游戏竟然还能这样玩，游戏里面也能爆发那么大一场战争，而且还能打掉一套房？！
 tags: [军团]
-cover: https://file.crazywong.com/gh/jerryc127/CDN/img/butterfly-donate-cover.png
+cover: https://images.evetech.net/alliances/99003581/logo?size=256
 ---
 
 **一只汤圆的EVE**
