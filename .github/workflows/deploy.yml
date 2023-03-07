@@ -3,7 +3,7 @@ name: Hexo Auto Deploy
 
 on:
   # 触发条件1：main 分支收到 push 后执行任务。
-  push:
+  pull_request:
     branches:
       - main
   # 触发条件2：手动按钮
