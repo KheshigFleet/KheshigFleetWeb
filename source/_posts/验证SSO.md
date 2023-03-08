@@ -2,6 +2,7 @@
 title: 验证SSO
 description: 学会如何提交验证联盟SEAT网站/SSO
 tags: [新人]
+top: 500
 date: 2023-03-01
 updated: 2023-03-08
 ---
