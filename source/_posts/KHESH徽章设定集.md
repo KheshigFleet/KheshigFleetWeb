@@ -3,6 +3,8 @@ title: KHESH徽章设定集
 description:  KHESH徽章设定集
 tags: [军团]
 cover: https://images.evetech.net/alliances/99003581/logo?size=256
+date: 2023-03-01
+updated: 2023-03-01
 ---
 
 ### 					KHESH徽章设定集
